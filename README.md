@@ -1,6 +1,6 @@
 # Theme for Zim Wiki
 
-## Installtion
+## Usage
 
 **Download**
 * Complete repository: `git clone https://github.com/GhostActive/zim-theme.git`
@@ -10,11 +10,11 @@
 
 **Windows** - Replace the old style in `%APPDATA%/zim/config/style.conf`
 
-**Hint:** The current used font is set to "Monospace". If the font is not installed, you can also replace them with any other font.
-
 After restarting zim with new configuration the theme will be activated.
 
-Further reading to customize styles [here](https://zim-wiki.org/manual/Help/Config_Files.html).
+**Hint:** "Monospace" is set as default font. Recommanded alternaitve: [JetBrains Mono](https://www.jetbrains.com/lp/mono/) 
+
+For more information about customization, see [here](https://zim-wiki.org/manual/Help/Config_Files.html).
 
 ## Sample
 
