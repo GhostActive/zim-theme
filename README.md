@@ -1,5 +1,8 @@
 # Theme for Zim Wiki
 
+[![Status: Final](https://img.shields.io/badge/Status-Final%20%7C%20Inactive-inactive)](https://github.com/GhostActive/zim-theme)
+[![Version v1.0](https://img.shields.io/badge/Version-1.0-lightgrey)](https://github.com/GhostActive/zim-theme)
+
 ### Download
 
 Clone complete repository
